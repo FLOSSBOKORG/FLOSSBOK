@@ -1,4 +1,3 @@
-
 Ref: [Version Control Repository - Wikipedia](https://en.wikipedia.org/wiki/Repository_(version_control))
 
 ##What is a repository and why would we want to use it?
