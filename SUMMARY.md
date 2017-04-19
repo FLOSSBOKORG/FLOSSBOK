@@ -14,4 +14,7 @@
     * [Distributed Version Control](version-control/distributed-version-control.md)
   * Integrated Development Environments
   * Issue Tracking
+* FOSS Community Management
+* Legal Issues
+* Business Issues
 
