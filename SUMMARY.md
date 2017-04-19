@@ -10,6 +10,8 @@
   * [Repository](repository.md)
   * Communication Mechanisms
   * [Version Control](version-control.md)
+    * [Distributed Version Control](version-control/distributed-version-control.md)
+    * [CentralIzed Version Control](version-control/centralized-version-control.md)
   * Integrated Development Environments
   * Issue Tracking
 
