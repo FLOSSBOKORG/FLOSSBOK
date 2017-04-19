@@ -2,16 +2,16 @@
 
 * [Introduction](README.md)
 * [FOSS Definition and Principles](foss-definition-and-principles.md)
-* FOSS History
-* FOSS Use
-* FOSS Applications
+* [FOSS History](foss-history.md)
+* [FOSS Use](foss-use.md)
+* [FOSS Applications](foss-applications.md)
 * [FOSS Development Principles and Processes](foss-development-principles-and-processes.md)
-  * Project Creation
-  * Project Leadership
-  * Requirements Definition
-  * Build Techniques
-  * Testing
-  * Release
+  * [Project Creation](foss-development-principles-and-processes/project-creation.md)
+  * [Project Leadership](foss-development-principles-and-processes/project-leadership.md)
+  * [Requirements Definition](foss-development-principles-and-processes/requirements-definition.md)
+  * [Build Techniques](foss-development-principles-and-processes/build-techniques.md)
+  * [Testing](foss-development-principles-and-processes/testing.md)
+  * [Release](foss-development-principles-and-processes/release.md)
 * [FOSS Development Infrastructure and Tools](foss-development-infrastructure-and-tools.md)
   * [Repository](repository.md)
   * Communication Mechanisms
@@ -26,6 +26,6 @@
   * Community Supporting Tools
   * Community Metrics
   * Continual Development of Community
-* Legal Issues
-* Business Issues
+* [Legal Issues](legal-issues.md)
+* [Business Issues](business-issues.md)
 
