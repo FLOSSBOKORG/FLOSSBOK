@@ -8,7 +8,7 @@ Most modern version control systems deal with “change sets,” which simply ar
 
 Centralized version control solves the problems described in the the article about [Version Control](/version-control.md). Programmers no longer have to keep many copies of files on their hard drives manually, because the version control tool can talk to the central copy and retrieve any version they need on the fly.
 
-Some of the most common centralized version control systems you may have heard of or used are CVS, Subversion \(or SVN\) and Perforce.
+Most common centralized version control systems include CVS, Subversion \(or SVN\) and Perforce.
 
 ---
 
