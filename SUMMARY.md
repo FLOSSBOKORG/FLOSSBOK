@@ -19,6 +19,8 @@
     * [Centralized Version Control](version-control/centralized-version-control.md)
     * [Distributed Version Control](version-control/distributed-version-control.md)
   * [Integrated Development Environments](integrated-development-environments.md)
+    * [Eclipse Project](integrated-development-environments/eclipse-project.md)
+      * [Eclipse Platform](integrated-development-environments/eclipse-project/eclipse-platform.md)
   * [Issue Tracking](issue-tracking.md)
 * [FOSS Community Management](foss-community-management.md)
   * Community Planning
