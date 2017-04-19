@@ -22,6 +22,7 @@
     * [Eclipse Project](integrated-development-environments/eclipse-project.md)
       * [Eclipse Platform](integrated-development-environments/eclipse-project/eclipse-platform.md)
   * [Issue Tracking](issue-tracking.md)
+    * [Bugzilla Project](issue-tracking/bugzilla-project.md)
 * [FOSS Community Management](foss-community-management.md)
   * Community Planning
   * Community Operations
