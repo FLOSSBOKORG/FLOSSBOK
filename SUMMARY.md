@@ -18,6 +18,8 @@
   * [Version Control](version-control.md)
     * [Centralized Version Control](version-control/centralized-version-control.md)
     * [Distributed Version Control](version-control/distributed-version-control.md)
+      * [Git](version-control/distributed-version-control/git.md)
+        * [Version Control with Git](version-control/distributed-version-control/git/comments-of-git.md)
   * [Integrated Development Environments](integrated-development-environments.md)
     * [Eclipse Project](integrated-development-environments/eclipse-project.md)
       * [Eclipse Platform](integrated-development-environments/eclipse-project/eclipse-platform.md)
