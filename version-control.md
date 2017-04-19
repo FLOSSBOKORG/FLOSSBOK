@@ -10,13 +10,15 @@ Version control is a system that records changes to a file or set of files over 
 
 * Version control gives access to historical versions of a project. This is insurance against system failures or data lossage. It supports rolling back to a previous version. For any part of a file, people can determine when, why, and by whom it was ever edited.
 
-# **System Components**
+---
+
+## **System Components**
 
 Version control uses a repository \(a database of changes\) and a working copy where people do their work. Working copy \(sometimes called a checkout\) is the personal copy of all the files in the project. A repository is a database of all the edits to, and/or historical versions \(snapshots\) of, the project. Repository may contain edits that have not been applied to personal working copy.
 
 A version control system lets multiple users simultaneously edit their own copies of a project. Usually, it is able to merge simultaneous changes by two different users. A conflict occurs when two different users make simultaneous, different changes to the same line of a file. In this case, the version control system cannot automatically decide which of the two edits to use. Manual intervention is required to resolve the conflict.
 
-# Types of Version Control Systems
+## Types of Version Control Systems
 
 There are two general varieties of version control: centralized and distributed. The main difference between centralized and distributed version control is the number of repositories. In centralized version control, there is just one repository, and in distributed version control, there are multiple repositories. Here are pictures of the typical arrangements:
 
