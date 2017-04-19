@@ -14,12 +14,12 @@
   * [Release](foss-development-principles-and-processes/release.md)
 * [FOSS Development Infrastructure and Tools](foss-development-infrastructure-and-tools.md)
   * [Repository](repository.md)
-  * Communication Mechanisms
+  * [Communication Mechanisms](communication-mechanisms.md)
   * [Version Control](version-control.md)
     * [Centralized Version Control](version-control/centralized-version-control.md)
     * [Distributed Version Control](version-control/distributed-version-control.md)
-  * Integrated Development Environments
-  * Issue Tracking
+  * [Integrated Development Environments](integrated-development-environments.md)
+  * [Issue Tracking](issue-tracking.md)
 * [FOSS Community Management](foss-community-management.md)
   * Community Planning
   * Community Operations
