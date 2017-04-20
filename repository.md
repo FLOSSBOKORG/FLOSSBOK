@@ -8,7 +8,7 @@ In open source software development, developers need to find a way to put things
 
 Each revision control system handles storing changes differently. Traditionally, subversions are stored into databases. Nowadays, solutions directly on the filesystem or on the cloud is becoming more common.
 
-## How are repository managed? \(centralized or distributed\)
+## How are repositories managed? \(centralized or distributed\)
 
 Depending on the version control system, whether it is centralized or distributed, the whole set of information in the repository may be duplicated on every user's system or may be maintained on a single server.
 
