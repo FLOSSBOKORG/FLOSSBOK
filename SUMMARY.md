@@ -35,6 +35,7 @@
   * [Community Planning](foss-community-management/community-planning.md)
   * [Community Operations](foss-community-management/community-operations.md)
   * [Community Metrics](foss-community-management/community-metrics.md)
+    * [Top Metrics For FOSS Communitiy](foss-community-management/community-metrics/top-metrics-for-foss-communitiy.md)
   * Continual Development of Community
 * [Legal Issues](legal-issues.md)
 * [Business Issues](business-issues.md)
