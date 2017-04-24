@@ -1,12 +1,12 @@
 # Repository
 
-In open source software development, a repository is a file archive and web hosting facility where a large amount of[ ](https://en.wikipedia.org/wiki/Source_code)source code and project meta data is kept, either publicly or privately. A repository is often used for multi-developer cooperation and software version controls. Repositories help developers submit patches of code in an organized fashion. 
+In open source software development, a repository is a file archive and web hosting facility where a large amount of[ ](https://en.wikipedia.org/wiki/Source_code)source code and project meta data is kept, either publicly or privately. A repository is often used for multi-developer cooperation and software version controls. Repositories help developers submit patches of code in an organized fashion.
 
-[Version Control Repository - Wikipedia](https://www.gitbook.com/book/qianxux/flossbok/edit#) 
+[Version Control Repository - Wikipedia](https://www.gitbook.com/book/qianxux/flossbok/edit#)
 
 [https://en.wikipedia.org/wiki/Comparison\_of\_source\_code\_hosting\_facilities](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities "Comparison of source code hosting facilities")
 
-## Types and management of repository 
+## Types and management of repository
 
 Each revision control system handles storing changes differently. Traditionally, subversions are stored into databases. Nowadays, solutions directly on the filesystem or on the cloud is becoming more common.
 
@@ -51,7 +51,6 @@ Project/release managementThere are many repository web hosting services, such a
 
 * Github
 * BitBucket
-* ProjectLocker
 * Cloud Forge
 * Source forge
 * Launchpad
@@ -59,6 +58,7 @@ Project/release managementThere are many repository web hosting services, such a
 * Codeplex
 * Freepository
 * Codebase
+* ProjectLocker
 
 ## Example case study
 
@@ -73,6 +73,16 @@ Any user could register a github account and then create his own project reposit
 
 Using the git version control system, a user could create his local repository on his machine, add files and commit to it. With github repository, the user could push/pull changes in the remote repository and keep the file changes synchronized between local and the cloud.
 
+### Bitbucket
+
+[https://bitbucket.org/](https://bitbucket.org/ "Bitbucket")
+
+[https://en.wikipedia.org/wiki/Bitbucket](https://en.wikipedia.org/wiki/Bitbucket "Bitbucket - Wikipedia")
+
+Bitbucket is a web-based hosting service for source code and development projects that use either Mercurial \(since launch\) or Git \(since October 2011\[2\]\) revision control systems that is owned by Atlassian. Bitbucket offers both commercial plans and free accounts. It offers free accounts with an unlimited number of private repositories \(which can have up to five users in the case of free accounts\) as of September 2010. Bitbucket integrates with other Atlassian software like JIRA Software, HipChat, Confluence and Bamboo.
+
+It is similar to GitHub, which primarily uses Git. Bitbucket has traditionally tailored itself towards helping professional developers with private proprietary code, especially since being acquired by Atlassian in 2010. \[3\] In September 2016, Bitbucket announced it had reached 5 million developers and 900,000 teams on its platform. \[4\] Bitbucket has 3 deployment models: Cloud, Bitbucket Server and Data Center.
+
 ### Source Forge
 
 [SourceForge](https://sourceforge.net/)  
@@ -80,6 +90,14 @@ Using the git version control system, a user could create his local repository o
 
 SourceForge is a Web-based service that offers software developers a centralized online location to control and manage free and open source software projects. It provides a source code repository.  
 Users can create their projects on sourceforge easily.
+
+### Cloud Forge
+
+[http://www.cloudforge.com/](http://www.cloudforge.com/)
+
+[https://en.wikipedia.org/wiki/CloudForge](https://en.wikipedia.org/wiki/CloudForge)
+
+CloudForge is a software-as-a-service product for application development tools and services, such as Git hosting, Subversion \(SVN\) hosting, issue trackers and Application Lifecycle Management. CloudForge was built on CollabNet’s cloud hosting and integration platform.
 
 ### 
 
