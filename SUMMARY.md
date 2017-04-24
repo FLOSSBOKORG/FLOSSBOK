@@ -1,10 +1,16 @@
 # Summary
 
 * [Introduction](README.md)
-* [FOSS Definition and Principles](foss-definition-and-principles.md)
 * [FOSS History](foss-history.md)
 * [FOSS Use](foss-use.md)
 * [FOSS Applications](foss-applications.md)
+* [FOSS Definition and Principles](foss-definition-and-principles.md)
+  * Project Creation
+  * Project Leadership
+  * Requirements Definition
+  * Build Techniques
+  * Testing
+  * Release
 * [FOSS Development Principles and Processes](foss-development-principles-and-processes.md)
   * [Project Creation](foss-development-principles-and-processes/project-creation.md)
   * [Project Leadership](foss-development-principles-and-processes/project-leadership.md)
@@ -26,10 +32,9 @@
   * [Issue Tracking](issue-tracking.md)
     * [Bugzilla Project](issue-tracking/bugzilla-project.md)
 * [FOSS Community Management](foss-community-management.md)
-  * Community Planning
-  * Community Operations
-  * Community Supporting Tools
-  * Community Metrics
+  * [Community Planning](foss-community-management/community-planning.md)
+  * [Community Operations](foss-community-management/community-operations.md)
+  * [Community Metrics](foss-community-management/community-metrics.md)
   * Continual Development of Community
 * [Legal Issues](legal-issues.md)
 * [Business Issues](business-issues.md)
