@@ -8,6 +8,19 @@ The following article discusses basic strategy for deciding what to measure, and
 
 There are two major types of metrics used to report on communities: qualitative and quantitative. Qualitative metrics are those that use spoken or written words to convey feedback, such as online surveys, formal usability testing, or in-person discussions. These can capture both structured and unstructured data, and if tracked over time can provide valuable measurement of progress toward your goals. Qualitative metrics are most useful to measure things like "Are the API docs effective enough for your project?" or "What do you think the community should focus on in the next 6-12 months?" The answers can help you understand the pulse of your community and what changes \(if any\) need to be made. Choosing good questions can be difficult, as it's easy to introduce [bias](https://en.wikipedia.org/wiki/Response_bias) accidentally, ask questions for which you have no plan to act on, or questions whose answers don't relate to your goals. Surveys also take a lot of effort each time you conduct them, so we used them sparingly \(about once a year\), primarily to ask the "what should we focus on" kinds of questions.
 
+### **Who contributes?**
+
+* Summarize the primary classifications of the primary contributors to your community.
+* Divide these by the types of value they bring, primarily in terms of different skills.
+
+### **How do they participate?**
+
+* For each type of contributor that you just wrote down, also note how each interacts with your community to make those contributions. These should primarily be the processes and infrastructure they use to participate.
+
+### **What do they deliver?**
+
+* For each group, write down what value they bring in a practical and measurable form.
+
 ## Qualitative & Quantitative Metrics
 
 Surveys and studies are great but take an ongoing commitment, whereas the collection and processing of quantitative metrics can often be automated and can provide long-term and consistent benefit after the upfront cost of setting it up. Minimizing \(if not removing\) human emotion and error from a metrics program is very attractive to technically oriented folks in our industry. Ben Yoskovitz, co-author of [Lean Analytics](http://leananalyticsbook.com/), put it this way: "Quantitative data abhors emotion; qualitative data marinates in it."
@@ -37,19 +50,6 @@ Maintaining a healthy diversity between evil corporate and scrappy independent d
 * **Distribution & evolution of commits across functional areas in the code**: This allowed us to make future business decisions based on which areas of FOSS were evolving the fastest.
 
 After coming up with these and other metrics, it took about 4-6 months to implement the mechanics of extracting, combining, and consuming the data \(from our own forums, blogs, and special projects, as well as JIRA, GitHub, IRC, Stack Overflow, and a few others\). These metrics allowed us to more accurately gauge both the community value and business performance related to it over time. As you can imagine, there were a lot of challenges in using this disparate collection of data sources, such as normalization of identities and companies, removing duplicates, filtering spam, and many more.
-
-### **Who contributes?**
-
-* Summarize the primary classifications of the primary contributors to your community.
-* Divide these by the types of value they bring, primarily in terms of different skills.
-
-### **How do they participate?**
-
-* For each type of contributor that you just wrote down, also note how each interacts with your community to make those contributions. These should primarily be the processes and infrastructure they use to participate.
-
-### **What do they deliver?**
-
-* For each group, write down what value they bring in a practical and measurable form.
 
 
 
