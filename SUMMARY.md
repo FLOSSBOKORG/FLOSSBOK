@@ -22,7 +22,8 @@
         * [Version Control with Git](version-control/distributed-version-control/git/comments-of-git.md)
   * [Integrated Development Environments](integrated-development-environments.md)
     * [Eclipse Project](integrated-development-environments/eclipse-project.md)
-      * [Eclipse Platform](integrated-development-environments/eclipse-project/eclipse-platform.md)
+    * [Android Studio](integrated-development-environments/android-studio.md)
+    * [Code::Blocks](integrated-development-environments/codeblock.md)
   * [Issue Tracking](issue-tracking.md)
     * [Bugzilla Project](issue-tracking/bugzilla-project.md)
 * [FOSS Community Management](foss-community-management.md)
@@ -30,7 +31,7 @@
   * Community Operations
   * Community Supporting Tools
   * Community Metrics
-  * Continual Development of Community
-* [Legal Issues](legal-issues.md)
+  * [Continual Development of Community](foss-community-management/continual-development-of-community.md)
 * [Business Issues](business-issues.md)
+* [Legal Issues](legal-issues.md)
 
