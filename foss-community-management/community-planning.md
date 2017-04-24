@@ -1,2 +1,10 @@
-Community Planning
+# Community Planning
+
+Team division
+
+Team communication
+
+Community planning
+
+
 
