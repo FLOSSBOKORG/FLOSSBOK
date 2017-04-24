@@ -6,7 +6,7 @@
 * [FOSS Applications](foss-applications.md)
 * [FOSS Definition and Principles](foss-definition-and-principles.md)
   * Project Creation
-  * Project Leadership
+  * [Project Leadership](foss-definition-and-principles/project-leadership.md)
   * Requirements Definition
   * Build Techniques
   * Testing

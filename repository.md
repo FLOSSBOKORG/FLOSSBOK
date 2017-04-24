@@ -1,8 +1,12 @@
-## What is a repository and why would we want to use it?
+# Repository
 
-[Version Control Repository - Wikipedia](https://en.wikipedia.org/wiki/Repository_version_control)
+In open source software development, developers need to find a way to put things together. Essentially, we need a place to store the meta data of our project. A source code repository, 
 
-In open source software development, developers need to find a way to put things together. Essentially, we need a place to store the meta data of our project. This storage place, often known as forges or repositories, is a common practice in version control systems. A repository can store a set of files, and track the changes of them accordingly.
+
+
+This storage place, often known as forges or repositories, is a common practice in version control systems. A repository can store a set of files, and track the changes of them accordingly.
+
+[Version Control Repository - Wikipedia](https://www.gitbook.com/book/qianxux/flossbok/edit#)
 
 ## Different type of repositories
 
