@@ -1,20 +1,10 @@
 # Continual Development of Community
 
-If you want to grow a community around your project, there are a few best practices you should follow:
+There are several best practices you need to follow to have a better community that can develop continually:
 
-–**Control**: If you opt for rules ensuring that you decide what code will be added to your product’s core, you will lose many of the benefits of community projects. Some examples of rules which come from a desire to maintain control are a requirement to assign copyright for all contributions to the core product to you, or ensuring that only employees can commit directly to the main branch of your core product. There are many good reasons to maintain ownership of the core, but this decision will severely handicap community contributions. This does not prevent you from developing other types of community, however, such as a community of add-on developers or integrators.
+–**Don’t tolerate bad actors:** When an open source project starts, there will always be good people who contribute to the project to make the project better. But there will also be bad people who will do harm to the project and the community. So at this time, you will need to stand out and adopt zero-tolerance policy towards those people. If you just neglect or endure them, this would make things even worse and make other good people in your community uncomfortable, lose the faith and even leave. What's more, this kind of situation would distract you and others from focusing on what's really important and this situation would make new participants do not want to participate in your community. So the best practice is that when you see negative behavior, just call it out publicly and explain to them why their behavior is unacceptable in a kind but firm tone. If they persist their behavior, you need to ask them to leave. Your code of conduct can be a constructive guide for these conversations.
 
-–**Don’t tolerate bad actors: **Any popular project will inevitably attract people who harm, rather than help, your community. They may start unnecessary debates, quibble over trivial features, or bully others.
-
-Do your best to adopt a zero-tolerance policy towards these types of people. If left unchecked, negative people will make other people in your community uncomfortable. They may even leave.
-
-Regular debates over trivial aspects of your project distracts others, including you, from focusing on important tasks. New people who arrive to your project may see these conversations and not want to participate.
-
-When you see negative behavior happening on your project, call it out publicly. Explain, in a kind but firm tone, why their behavior is not acceptable. If the problem persists, you may need to ask them to leave. Your code of conduct can be a constructive guide for these conversations.
-
-–**Meet contributors where they’re at: **Good documentation only becomes more important as your community grows. Casual contributors, who may not otherwise be familiar with your project, read your documentation to quickly get the context they need.
-
-In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. Django, for example, has a special landing page to welcome new contributors.![](/assets/import.png)In your issue queue, label bugs that are suitable for different types of contributors: for example,“first timers only”,“good first bug”, or“documentation”.These labels make it easy for someone new to your project to quickly scan your issues and get started.
+–**Meet contributors where they’re at: **Your community needs to be always kind to new participants. So in order to make them start your project easily, you need to have good documentation and explain explicitly how they can get started. You may even want to make a dedicated section for this purpose. Django, for example, has a special landing page to welcome new contributors.![](/assets/import.png)In your issue queue, label bugs that are suitable for different types of contributors: for example,“first timers only”,“good first bug”, or“documentation”.These labels make it easy for someone new to your project to quickly scan your issues and get started.
 
 Finally, use your documentation to make people feel welcome at every step of the way.
 

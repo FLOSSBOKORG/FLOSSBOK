@@ -14,13 +14,13 @@
   * [Build Techniques](foss-development-principles-and-processes/build-techniques.md)
   * [Testing](foss-development-principles-and-processes/testing.md)
   * [Release](foss-development-principles-and-processes/release.md)
-    * Releasing Number
-    * Release Branches
-    * Stabilizing a Release
-    * Packaging
-    * Testing and Releasing
-    * Maintaining Multiple Release Lines
-    * Releases and Daily Development
+    * [Releasing Number](foss-development-principles-and-processes/release/releasing-number.md)
+    * [Release Branches](foss-development-principles-and-processes/release/release-branches.md)
+    * [Stabilizing a Release](foss-development-principles-and-processes/release/stabilizing-a-release.md)
+    * [Packaging](foss-development-principles-and-processes/release/packaging.md)
+    * [Testing and Releasing](foss-development-principles-and-processes/release/testing-and-releasing.md)
+    * [Maintaining Multiple Release Lines](foss-development-principles-and-processes/release/maintaining-multiple-release-lines.md)
+    * [Releases and Daily Development](foss-development-principles-and-processes/release/releases-and-daily-development.md)
 * [FOSS Development Infrastructure and Tools](foss-development-infrastructure-and-tools.md)
   * [Repository](repository.md)
   * [Communication Mechanisms](communication-mechanisms.md)
