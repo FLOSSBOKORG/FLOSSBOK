@@ -32,7 +32,11 @@ If your project is on github.com, you could add an organization to it. Github or
 
 ## Give commit access
 
-Some contributors only make small improvements to the project. In this case, there is no need to grant them commit access, as they will not commit to the project all the time. _Pull Request_, is often 
+Some contributors only make small improvements to the project. In this case, there is no need to grant them commit access, as they will not commit to the project all the time. _Pull Request_, is often used by this type of contributors, to submit their contributions. 
+
+If a contributor is constantly active in the project, and make a lot of contributions back, then it is a time to consider to give him commit access. Different projects have different requirements on how to gain commit access. In order to have committer, one must show he is passionate, accountable and skillful. 
+
+For projects on github.com, different branches are used for different teams and developers to submit their contributions without causing conflicts among the whole project. It is the job of a project owner/maintainer to decide when to merge different branches.
 
 ## Governance structure
 
