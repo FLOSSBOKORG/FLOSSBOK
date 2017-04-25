@@ -6,7 +6,7 @@
 * [FOSS Use](foss-use.md)
 * [FOSS Applications](foss-applications.md)
   * [FOSS Infrastructure](foss-applications/foss-infrastructure.md)
-  * FOSS user application
+  * [FOSS user application](foss-applications/foss-user-application.md)
 * [FOSS Development Principles and Processes](foss-development-principles-and-processes.md)
   * [Project Creation](foss-development-principles-and-processes/project-creation.md)
   * [Project Leadership](foss-development-principles-and-processes/project-leadership.md)
