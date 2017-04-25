@@ -24,15 +24,15 @@ For small projects, the creator, owner and maintainer may be the same people, so
 
 For bigger projects, it would be nice to have a webpage dedicated to the list of contributors for your project, including the team structures, and team leaders. For example, the Linux Foundation has a webpage for their leaderships. [https://www.linuxfoundation.org/about/leadership](https://www.linuxfoundation.org/about/leadership)
 
-Projects with a very active community will have a core team of maintainers. And the community will have a dedicated channel of communication. Sometimes, even people from outside the project will start discussing the project outside the official community channels/forums. For example, developers from different countries will start a new website to discuss the same project in their own language. The FreeCodeCamp project is an example. This is the official forum [https://forum.freecodecamp.com/](https://forum.freecodecamp.com/) and this is the Chinese gitter chat room[ https://gitter.im/FreeCodeCamp/chinese. ](https://gitter.im/FreeCodeCamp/chinese)
+Projects with a very active community will have a core team of maintainers. And the community will have a dedicated channel of communication. Sometimes, even people from outside the project will start discussing the project outside the official community channels/forums. For example, developers from different countries will start a new website to discuss the same project in their own language. The FreeCodeCamp project is an example. This is the official forum [https://forum.freecodecamp.com/](https://forum.freecodecamp.com/) and this is the Chinese Gitter chat room[ https://gitter.im/FreeCodeCamp/chinese. ](https://gitter.im/FreeCodeCamp/chinese)
 
-Some projects have leadership members hosting office hours \(Ruby\).
+Once you have formalize the roles, don't forget to document all of those. It will help others understand the leadership team structure of the project. It is also a good idea to make a formal procedure process for project maintainer / community committee promotion. People who have interests in the project will eventually have the chance to join the leadership.
 
-Once you have formalize the roles, don't forget to document it. It makes
-
-If your project is on github.com, you could add an organization to it.
+If your project is on github.com, you could add an organization to it. Github organization make it easier to deal with shared project ownerships. [https://help.github.com/articles/creating-a-new-organization-account/](https://help.github.com/articles/creating-a-new-organization-account/ "Github organization")
 
 ## Give commit access
+
+
 
 ## Governance structure
 
