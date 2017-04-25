@@ -14,7 +14,7 @@ The overall activity of the community and how it evolves over time is a useful m
 
 ![](https://opensource.com/sites/default/files/images/business-uploads/activity-metrics.png "Activity metrics chart")
 
-Number of commits and number of merged changes after code review in the OpenStack project, as found in the[OpenStack Activity Dashboard](http://activity.openstack.org/). Evolution over time \(weekly data\).
+Number of commits and number of merged changes after code review in the OpenStack project, as found in the [OpenStack Activity Dashboard](http://activity.openstack.org/). Evolution over time \(weekly data\).
 
 ## 2. Size
 
@@ -24,7 +24,7 @@ This basic idea ofactivity" \(somebody did something\) can be extended in many w
 
 ![](https://opensource.com/sites/default/files/images/business-uploads/size-metrics.png "Size metrics chart")
 
-Number of authors and number of posters in mailing lists in the Xen project, as found in the[Xen Project Development Dashboard](http://projects.bitergia.com/xen-project-dashboard/). Evolution over time \(monthly data\).
+Number of authors and number of posters in mailing lists in the Xen project, as found in the [Xen Project Development Dashboard](http://projects.bitergia.com/xen-project-dashboard/). Evolution over time \(monthly data\).
 
 ## 3. Performance
 
