@@ -18,9 +18,9 @@ Finally, make people feel welcome at every step of the way. Leave a few kind wor
 
 Most projects only have one or two maintainers who do most of the work. So if you can make your project bigger and your community bigger, the easier it is to find help.
 
-–**Barriers to entry**: Barriers that contributors have to overcome can come in different shapes: using unusual tools, requiring convoluted processes for bug reporting, feature requests or patch acceptation, or legal forms you may ask people to sign before contributing.
+–**Barriers to entry**: Understand the barriers that contributors will need to overcome, such as using unusual tools, convoluted processes for bug reporting, feature requests or patch acceptation, or legal forms you may ask people to sign before contributing. And try to make these barriers easier for contributors.
 
-–**Tools and infrastructure**: Ensure that you provide your users with the opportunity to distribute their work and connect with other users – whether this be through a forge for modules, or through the use of Gitorious of Bazaar for source control. Contributing in your project should be seen as a social experience.
+–**Tools and infrastructure**: Ensure that you provide your users with the opportunity to distribute their work and connect with other users. Contributing in your project should be seen as a social experience.
 
 –**Community processes**: Create a just environment – no-one likes to be considered a second class citizen. Document processes for gaining access to key resources like bug moderator permissions, commit access to the master branch, or editor access for the project website.
 
