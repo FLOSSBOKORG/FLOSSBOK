@@ -1,8 +1,8 @@
 # Project Leadership/Governance
 
-Open source project leadership/governance, is a little bit different from traditional projects. In most companies or organizations, the management is top-down, meaning instructions coming from VP get conveyed to directors, then managers and finally employees. Open source communities and their projects rarely function in that way. Compared to the top-down hierarchical approach, another way is crowdsourcing. Crowdsourcing is a specific sourcing model in which individuals or organizations use contributions from Internet users to obtain needed services or ideas.
+Open source project leadership/governance, is different from traditional projects. In most companies or organizations, the management is top-down, meaning instructions coming from VP get conveyed to directors, then managers and finally employees. Open source communities and their projects rarely function in that way. Compared to the top-down hierarchical approach, another way is crowdsourcing. Crowdsourcing is a specific sourcing model in which individuals or organizations use contributions from Internet users to obtain needed services or ideas.
 
-So how are open source projects and communities led? Often in a project, there are different teams responsible for different parts and different features. Teams are loosely coupled, and each team has a team leader. The leaders are a little bit different from traditional company managers, in that he will not go about how things must be done. In open source project, people often volunteer to do some tasks, and they are happy to participate in the project, making it better and better day after day.
+So how are open source projects and communities led? Often in a project, there are different teams responsible for different parts and different features. Teams are loosely coupled, and each team has a team leader. The leaders will not go about how things must be done. In open source project, people often volunteer to do some tasks, and they are happy to participate in the project, making it better and better day after day.
 
 ## Example formal roles
 
