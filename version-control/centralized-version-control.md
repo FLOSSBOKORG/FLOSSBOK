@@ -14,8 +14,6 @@ Most common centralized version control systems include CVS, Subversion \(or SVN
 
 ## A Typical Centralized Version Control Workflow {#WhatisVersionControl-ATypicalCentralizedVersionControlWorkflow}
 
----
-
 When you’re working with a centralized verison control system, your workflow for adding a new feature or fixing a bug in your project will usually look something like this:
 
 * Pull down any changes other people have made from the central server.

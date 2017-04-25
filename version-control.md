@@ -1,5 +1,7 @@
 # **Version Control**
 
+---
+
 Version control is a system that records changes to a file or set of files over time so that specific versions can be recalled later. A version control system serves the following purposes:
 
 * Version control enables multiple people to simultaneously work on a single project. Each person edits his or her own copy of the files and chooses when to share those changes with the rest of the team. Thus, temporary or partial edits by one person do not interfere with another person’s work.
@@ -9,8 +11,6 @@ Version control is a system that records changes to a file or set of files over 
 * Version control integrates work done simultaneously by different team members. In most cases, edits to different files or even the same file can be combined transparently. When conflicts happens, the version control system may request human assistance.
 
 * Version control gives access to historical versions of a project. This is insurance against system failures or data lossage. It supports rolling back to a previous version. For any part of a file, people can determine when, why, and by whom it was ever edited.
-
----
 
 ## **System Components**
 

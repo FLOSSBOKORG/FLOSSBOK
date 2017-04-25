@@ -10,8 +10,6 @@ In addition to being distributed, Git has been designed with performance, securi
 
 ## Performance {#performance}
 
----
-
 The raw performance characteristics of Git are very strong when compared to many alternatives. Committing new changes, branching, merging and comparing past versions are all optimized for performance. The algorithms implemented inside Git take advantage of deep knowledge about common attributes of real source code file trees, how they are usually modified over time and what the access patterns are.
 
 Unlike some version control software, Git is not fooled by the names of the files when determining what the storage and version history of the file tree should be, instead, Git focuses on the file content itself. After all, source code files are frequently renamed, split, and rearranged. The object format of Git's repository files uses a combination of delta encoding \(storing content differences\), compression and explicitly stores directory contents and version metadata objects.
@@ -22,8 +20,6 @@ For example, say a developer, Alice, makes changes to source code, adding a feat
 
 ## Security {#security}
 
----
-
 Git has been designed with the integrity of managed source code as a top priority. The content of the files as well as the true relationships between files and directories, versions, tags and commits, all of these objects in the Git repository are secured with a cryptographically secure hashing algorithm called SHA1. This protects the code and the change history against both accidental and malicious change and ensures that the history is fully traceable.
 
 With Git, you can be sure you have an authentic content history of your source code.
@@ -31,8 +27,6 @@ With Git, you can be sure you have an authentic content history of your source c
 Some other version control systems have no protections against secret alteration at a later date. This can be a serious information security vulnerability for any organization that relies on software development.
 
 ## Flexibility {#flexibility}
-
----
 
 One of Git's key design objectives is flexibility. Git is flexible in several respects: in support for various kinds of nonlinear development workflows, in its efficiency in both small and large projects and in its compatibility with many existing systems and protocols.
 

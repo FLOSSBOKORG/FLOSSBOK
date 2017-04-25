@@ -14,8 +14,6 @@ One common misconception about distributed version control systems is that there
 
 ## Advantages Over Centralized Version Control {#WhatisVersionControl-AdvantagesOverCentralizedVersionControl}
 
----
-
 The act of cloning an entire repository gives distributed version control tools several advantages over [centralized version control](/version-control/centralized-version-control.md) systems:
 
 * Performing actions other than pushing and pulling change sets is 
@@ -26,8 +24,6 @@ The act of cloning an entire repository gives distributed version control tools 
 * Since each programmer has a full copy of the project repository, they can share changes with one or two other people at a time if they want to get some feedback before showing the changes to everyone.
 
 ## Disadvantages Compared to Centralized Version Control {#WhatisVersionControl-DisadvantagesComparedtoCentralizedVersionControl}
-
----
 
 To be quite honest, there are almost no disadvantages to using a distributed version control system over a centralized one. Distributed systems do _not_ prevent you from having a single “central” repository, they just provide more options on top of that.
 
