@@ -2,7 +2,7 @@
 
 ---
 
-## Why measure anything? {#why-measure-anything}
+## Purposes {#why-measure-anything}
 
 Data, when used wisely, can help you make better decisions as an open source maintainer.
 
@@ -21,23 +21,23 @@ For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb
 
 Popularity isn’t everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
 
-If you_are_interested in understanding your project on a deeper level, read on for ways to analyze your project’s activity.
+If you are interested in understanding your project on a deeper level, read on for ways to analyze your project’s activity.
 
 ## Discovery {#discovery}
 
-Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself:_are people finding this project?_
+Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself: _are people finding this project?_
 
 ![](https://opensource.guide/assets/images/metrics/repo_traffic_graphs_tooltip.png "traffic graph")
 
 If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project’s page, click “Graphs”, then “Traffic”. On this page, you can see:
 
-* **Total pageviews:**Tells you how many times your project was viewed
+* **Total page views: **Tells you how many times your project was viewed
 
 * **Total unique visitors:**Tells you how many people viewed your project
 
 * **Referring sites:**Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
 
-* **Popular content:**Tells you where visitors go on your project, broken down by pageviews and unique visitors.
+* **Popular content:**Tells you where visitors go on your project, broken down by page views and unique visitors.
 
 [GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don’t necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
 
@@ -45,7 +45,7 @@ You may also want to [track discoverability in specific places](https://opensour
 
 ## Usage {#usage}
 
-People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they’ll feel compelled to do something. The second question you’ll want to ask is:_are people using this project?_
+People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they’ll feel compelled to do something. The second question you’ll want to ask is: _are people using this project?_
 
 If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project’s downloads.
 
