@@ -1,53 +1,111 @@
 # Community Metrics
 
-Community metrics program serves as a constant reminder of what you want to achieve in the program and should be used as metrics themselves when deciding exactly what they are going to measure.
+## Why measure anything? {#why-measure-anything}
 
-The following article discusses basic strategy for deciding what to measure, and give examples of specific community metrics we've used in practice. Using the knowledge of community and the goals community managers came up with, it is important to ensure that the metrics that they choose are relevant.
+Data, when used wisely, can help you make better decisions as an open source maintainer.
 
-## Types of Metrics
+With more information, you can:
 
-There are two major types of metrics used to report on communities: qualitative and quantitative. Qualitative metrics are those that use spoken or written words to convey feedback, such as online surveys, formal usability testing, or in-person discussions. These can capture both structured and unstructured data, and if tracked over time can provide valuable measurement of progress toward your goals. Qualitative metrics are most useful to measure things like "Are the API docs effective enough for your project?" or "What do you think the community should focus on in the next 6-12 months?" The answers can help you understand the pulse of your community and what changes \(if any\) need to be made. Choosing good questions can be difficult, as it's easy to introduce [bias](https://en.wikipedia.org/wiki/Response_bias) accidentally, ask questions for which you have no plan to act on, or questions whose answers don't relate to your goals. Surveys also take a lot of effort each time you conduct them, so we used them sparingly \(about once a year\), primarily to ask the the questions below:
+* Understand how users respond to a new feature
+* Figure out where new users come from
+* Identify, and decide whether to support, an outlier use case or functionality
+* Quantify your project’s popularity
+* Understand how your project is used
+* Raise money through sponsorships and grants
 
-### **Who contributes?**
+For example, [Homebrew](https://github.com/Homebrew/brew/blob/bbed7246bc5c5b7acb8c1d427d10b43e090dfd39/docs/Analytics.md) finds that Google Analytics helps them prioritize work:
 
-* Summarize the primary classifications of the primary contributors to your community.
-* Divide these by the types of value they bring, primarily in terms of different skills.
+> Homebrew is provided free of charge and run entirely by volunteers in their spare time. As a result, we do not have the resources to do detailed user studies of Homebrew users to decide on how best to design future features and prioritise current work. Anonymous aggregate user analytics allow us to prioritise fixes and features based on how, where and when people use Homebrew.
 
-### **How do they participate?**
+Popularity isn’t everything. Everybody gets into open source for different reasons. If your goal as an open source maintainer is to show off your work, be transparent about your code, or just have fun, metrics may not be important to you.
 
-* For each type of contributor that you just wrote down, also note how each interacts with your community to make those contributions. These should primarily be the processes and infrastructure they use to participate.
+If you_are_interested in understanding your project on a deeper level, read on for ways to analyze your project’s activity.
 
-### **What do they deliver?**
+## Discovery {#discovery}
 
-* For each group, write down what value they bring in a practical and measurable form.
+Before anybody can use or contribute back to your project, they need to know it exists. Ask yourself:_are people finding this project?_
 
-## Qualitative & Quantitative Metrics
+![](https://opensource.guide/assets/images/metrics/repo_traffic_graphs_tooltip.png "traffic graph")
 
-Surveys and studies are great but take an ongoing commitment, whereas the collection and processing of quantitative metrics can often be automated and can provide long-term and consistent benefit after the upfront cost of setting it up. Minimizing \(if not removing\) human emotion and error from a metrics program is very attractive to technically oriented folks in our industry. Ben Yoskovitz, co-author of [Lean Analytics](http://leananalyticsbook.com/), put it this way: "Quantitative data abhors emotion; qualitative data marinates in it."
+If your project is hosted on GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) how many people land on your project and where they come from. From your project’s page, click “Graphs”, then “Traffic”. On this page, you can see:
 
-Basic quantitative metrics are readily available to most modern open source communities—the day-to-day operational online tools we use provide easy ways to obtain historical and sometimes real-time metrics about the activities that take place. We'll explore this in more detail and show you several specific metrics that relate to our community's goals.
+* **Total pageviews:**Tells you how many times your project was viewed
 
-#### 1st-Order Metrics
+* **Total unique visitors:**Tells you how many people viewed your project
 
-Take a look at the typical workflow for your community members. Which tools do they use, how do they use them, and what statistics might you be able to extract from them? Usually you'll have access to the basics, what I call 1st-order metrics. These metrics are easily obtainable, but they rarely tell the complete story on their own. The canonical example is the body count \(a.k.a., number of registered users\). If this number is increasing, is that a good thing? Maybe, maybe not. It might mean your recently implemented idea to attract community members is working. But it might also mean your sign-up form was hacked by automated spammers. The same ambiguity can be said about several other 1st-order metrics that we've [previously discussed](https://opensource.com/business/16/7/measuring-what-matters). Dave Neary \(fellow Red Hatter and community builder\) has even more to say on [metrics gone wrong](http://community.redhat.com/blog/2014/07/when-metrics-go-wrong/).
+* **Referring sites:**Tells you where visitors came from. This metric can help you figure out where to reach your audience and whether your promotion efforts are working.
 
-An important goal of most FOSS communities is to increase the value of community participation, and metrics like these didn't indicate any real value to a community member. So we had to dig a little deeper.
+* **Popular content:**Tells you where visitors go on your project, broken down by pageviews and unique visitors.
 
-#### 2nd-Order Metrics
+[GitHub stars](https://help.github.com/articles/about-stars/) can also help provide a baseline measure of popularity. While GitHub stars don’t necessarily correlate to downloads and usage, they can tell you how many people are taking notice of your work.
 
-What does it mean for community participation to be valuable? It's when a community member receives something of value from their participation. Each community is different, but the [results of the FOSS survey](http://www.slideshare.net/schtool/liferay-2012-community-survey-summary) showed that our community members valued sharing, learning, and giving back above all else. So we came up with a set of 2nd-order metrics that we felt indicated value \(or helped us meet our other goals\). These metrics were derived from post-processing and transforming our 1st-order metrics, so going from the easy-to-obtain, hard-to-interpret 1st-order data to our desired metric was not a huge technical feat. Here is a select sampling of the metrics we used, along with their relevancy toward our goals:
+You may also want to [track discoverability in specific places](https://opensource.com/business/16/6/pirate-metrics): for example, Google PageRank, referral traffic from your project’s website, or referrals from other open source projects or websites.
 
-* **Number of company vs. non-company members**:
+## Usage {#usage}
 
-Maintaining a healthy diversity between evil corporate and scrappy independent developers brings more real-world experience \(and therefore value\)
+People are finding your project on this wild and crazy thing we call the internet. Ideally, when they see your project, they’ll feel compelled to do something. The second question you’ll want to ask is:_are people using this project?_
 
-* **Time from code contribution to codebase commit**
-* **Time from bug report to bug being fixed in codebase**
-* **Time from initial forum post to first response/answer: **These three related metrics above all track aspects of value: If you contribute, and it's [ignored](https://opensource.com/business/16/6/bad-practice-foss-projects-management), then you'll find less value and possibly go elsewhere. The more we had here, the more confident we were of the result.
-* **Location of community members**: Ability to see results of regional business decisions
-* **Evolution of contributor age over time**: Enabling a constant flow of knowledge and experience from the old guard to the up-and-comers means there's always an up-to-date knowledge base \(value\) in the community.
-* **Number of ignored/unanswered messages**: Super important for newcomers to get a first response, even if it's not the answer they were looking for.
-* **Distribution & evolution of commits across functional areas in the code**: This allowed us to make future business decisions based on which areas of FOSS were evolving the fastest.
+If you use a package manager, such as npm or RubyGems.org, to distribute your project, you may be able to track your project’s downloads.
 
-After coming up with these and other metrics, it took about 4-6 months to implement the mechanics of extracting, combining, and consuming the data \(from our own forums, blogs, and special projects, as well as JIRA, GitHub, IRC, Stack Overflow, and a few others\). These metrics allowed us to more accurately gauge both the community value and business performance related to it over time. As you can imagine, there were a lot of challenges in using this disparate collection of data sources, such as normalization of identities and companies, removing duplicates, filtering spam, and many more.
+Each package manager may use a slightly different definition of “download”, and downloads do not necessarily correlate to installs or use, but it provides some baseline for comparison. Try using [Libraries.io](https://libraries.io/) to track usage statistics across many popular package managers.
+
+If your project is on GitHub, navigate again to the “Traffic” page. You can use the [clone graph](https://github.com/blog/1873-clone-graphs) to see how many times your project has been cloned on a given day, broken down by total clones and unique cloners.
+
+![](https://opensource.guide/assets/images/metrics/clone_graph.png "clone graph")
+
+If usage is low compared to the number of people discovering your project, there are two issues to consider. Either:
+
+* Your project isn’t successfully converting your audience, or
+* You’re attracting the wrong audience
+
+For example, if your project lands on the front page of Hacker News, you’ll probably see a spike in discovery \(traffic\), but a lower conversion rate, because you’re reaching everyone on Hacker News. If your Ruby project is featured at a Ruby conference, however, you’re more likely to see a high conversion rate from a targeted audience.
+
+Try to figure out where your audience is coming from and ask others for feedback on your project page to figure out which of these two issues you’re facing.
+
+Once you know that people are using your project, you might want to try to figure out what they are doing with it. Are they building on it by forking your code and adding features? Are they using it for science or business?
+
+## Retention {#retention}
+
+People are finding your project and they’re using it. The next question you’ll want to ask yourself is:_are people contributing back to this project?_
+
+It’s never too early to start thinking about contributors. Without other people pitching in, you risk putting yourself into an unhealthy situation where your project is_popular_\(many people use it\) but not_supported_\(not enough maintainer time to meet demand\).
+
+Retention also requires an [inflow of new contributors](http://blog.abigailcabunoc.com/increasing-developer-engagement-at-mozilla-science-learning-advocacy#contributor-pathways_2), as previously active contributors will eventually move on to other things.
+
+Examples of community metrics that you may want to regularly track include:
+
+**Total contributor count and number of commits per contributor: **Tells you how many contributors you have, and who’s more or less active. On GitHub, you can view this under “Graphs” - “Contributors.” Right now, this graph only counts contributors who have committed to the default branch of the repository.
+
+![](https://opensource.guide/assets/images/metrics/repo_contributors_specific_graph.png "contributor graph")
+
+* **First time, casual, and repeat contributors: **Helps you track whether you’re getting new contributors, and whether they come back. \(Casual contributors are contributors with a low number of commits. Whether that’s one commit, less than five commits, or something else is up to you.\) Without new contributors, your project’s community can become stagnant.
+
+* **Number of open issues and open pull requests: **If these numbers get too high, you might need help with issue triaging and code reviews.
+
+* **Number of **_**opened **_**issues and **_**opened **_**pull requests: **Opened issues means somebody cares enough about your project to open an issue. If that number increases over time, it suggests people are interested in your project.
+
+* **Types of contributions: **For example, commits, fixing typos or bugs, or commenting on an issue.
+
+## Maintainer Activity {#maintainer-activity}
+
+Finally, you’ll want to close the loop by making sure your project’s maintainers are able to handle the volume of contributions received. The last question you’ll want to ask yourself is: _am I \(or are we\) responding to our community?_
+
+Unresponsive maintainers become a bottleneck for open source projects. If someone submits a contribution but never hears back from a maintainer, they may feel discouraged and leave.
+
+[Research from Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggests that maintainer responsiveness is a critical factor in encouraging repeat contributions.
+
+Consider tracking how long it takes for you \(or another maintainer\) to respond to contributions, whether an issue or a pull request. Responding doesn’t require taking action. It can be as simple as saying:_“Thanks for your submission! I’ll review this within the next week.”_
+
+You could also measure the time it takes to move between stages in the contribution process, such as:
+
+* Average time an issue remains open
+* Whether issues get closed by PRs
+* Whether stale issues get closed
+* Average time to merge a pull request
+
+## Learn About People {#use--to-learn-about-people}
+
+Understanding metrics will help you build an active, growing open source project. Even if you don’t track every metric on a dashboard, use the framework above to focus your attention on the type of behavior that will help your project thrive.
+
+
 
