@@ -40,7 +40,7 @@
   * [Community Operations](foss-community-management/community-operations.md)
   * [Community Metrics](foss-community-management/community-metrics.md)
     * [Measurement Program](foss-community-management/community-metrics/measurement-program.md)
-    * [Key Metrics](foss-community-management/community-metrics/top-metrics-for-foss-communitiy.md)
+    * [Key Metrics](foss-community-management/community-metrics/key-metrics.md)
   * [Continual Development of Community](foss-community-management/continual-development-of-community.md)
 * [Legal Issues](legal-issues.md)
 * [Business Issues](business-issues.md)
