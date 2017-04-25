@@ -22,13 +22,11 @@ Most projects only have one or two maintainers who do most of the work. So if yo
 
 –**Tools and infrastructure**: Ensure that you provide your users with the opportunity to distribute their work and connect with other users. Contributing in your project should be seen as a social experience.
 
-–**Community processes**: Create a just environment – no-one likes to be considered a second class citizen. Document processes for gaining access to key resources like bug moderator permissions, commit access to the master branch, or editor access for the project website.
+–**Community processes**: Create a just environment. Document processes for gaining access to key resources like bug moderator permissions, commit access to the master branch, or editor access for the project website.
 
-–**Budget appropriately**: Commit the appropriate resources – building a community takes time and effort, and that means investment – primarily of human resources.Having one guy who is the community manager dealing with the community and a team of 10 developers behind the corporate walls isn’t going to cut it. As Josh Berkus of PostgreSQL said in his “How to Kill your community” presentation, if your nascent community feels neglected, it will just go away.
+–**Budget appropriately**: Commit the appropriate resources. Building a community will take a lot of time and effort, and that means investment, primarily of human resources. Having one guy who is the community manager dealing with the community and a team of 10 developers behind the corporate walls isn’t going to cut it. 
 
-Launching a new project is like launching a new product – except that acquiring a new community developer takes much longer, and is much more difficult and costly than acquiring a new user. In the same way that companies track SAC for new product launches, tracking the Developer Acquisition Cost \(DAC\) for your project is a key metric in evaluating whether you are doing the right things to grow your community.
-
-Developers have lots of projects to choose from, and they tend to gravitate towards projects where co-development is the norm. So you have to be thinking about the contributor experience, and the value proposition to external contributors, all the time.
+Developers tend to put more efforts on projects and communities where co-development is the norm. So you have to put emphasis on the contributor experience, and the value proposition to external contributors all the time.
 
 A clear and compelling vision, with lots of opportunities to contribute, and low barriers to collaboration, can help reduce the acquisition cost of community contributors, and similarly reduce the cost of acquiring new users and paying customers.
 
