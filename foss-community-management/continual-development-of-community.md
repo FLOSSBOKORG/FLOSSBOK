@@ -10,15 +10,13 @@ Finally, make people feel welcome at every step of the way. Leave a few kind wor
 
 –**Share ownership of your project:** People are more willing to contribute themselves if they have the ownership of the project. So you can share your ownership with your community as much as possible. This doesn't mean you will totally lose your ownership or you will need to accept some behaviors or contribution that you don't want to. But the more you give credit to others, the better they will do. Here are some ideas that can help you to share your ownership:
 
-* **Resist fixing easy \(non-critical\) bugs. **Instead, use them as opportunities to recruit new contributors, or mentor someone who’d like to contribute. It may seem unnatural at first, but your investment will pay off over time.
-* **Start a CONTRIBUTORS or AUTHORS file in your project **that lists everyone who’s contributed to your project.
-* If you’ve got a sizeable community, **send out a newsletter or write a blog post **thanking contributors.
-* **Give every contributor commit access. **This made people more excited to polish their patches, and there would be new maintainers for projects .
+* **Recruit new contributors or mentor someone to fix easy bugs **instead doing this by yourself. This can be a good start point for new participants and your investment will pay off over time.
+* **Lists everyone who has contributed to your project** in** **a CONTRIBUTORS or AUTHORS file in your project.
+* If you’ve got a bigger community, **send out a newsletter or write a blog post to **thank contributors.
+* **Give every contributor commit access. **This would make people more willing to contribute to projects and attract more maintainers.
 * If your project is on GitHub, **move your project from your personal account to an Organization **and add at least one backup admin. Organizations make it easier to work on projects with external collaborators.
 
-The reality is that most projects only have one or two maintainers who do most of the work. The bigger your project, and the bigger your community, the easier it is to find help.
-
-While you may not always find someone to answer the call, putting a signal out there increases the chances that other people will pitch in. And the earlier you start, the sooner people can help.
+Most projects only have one or two maintainers who do most of the work. So if you can make your project bigger and your community bigger, the easier it is to find help.
 
 –**Barriers to entry**: Barriers that contributors have to overcome can come in different shapes: using unusual tools, requiring convoluted processes for bug reporting, feature requests or patch acceptation, or legal forms you may ask people to sign before contributing.
 
