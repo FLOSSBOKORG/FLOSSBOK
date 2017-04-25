@@ -2,7 +2,7 @@
 
 ---
 
-In contrast to the world of classic software engineering, open software development communities do not seem to readily adopt or practice modern software engineering or requirements engineering processes. Perhaps this is no surprise. However, these communities do develop software that is extremely valuable, generally reliable, often trustworthy, and readily used within its associated user community. So, what processes are being used to develop the requirements for open software systems?
+In contrast to the world of classic software engineering, FOSS communities do not seem to readily adopt or practice modern software engineering or requirements engineering processes. Perhaps this is no surprise. However, these communities do develop software that is extremely valuable, generally reliable, often trustworthy, and readily used within its associated user community. So, what processes are being used to develop the requirements for open software systems?
 
 ## Activities & Processes
 
