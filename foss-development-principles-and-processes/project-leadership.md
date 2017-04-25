@@ -46,5 +46,7 @@ Based on the size of the leadership team, open source project governance have th
 * Meritocracy: In projects that adopts meritocracy, active project contributors are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the Apache Foundation; all Apache projects are meritocracies.
 * Liberal contribution: Under a liberal contribution model, major project decisions are made based on a consensus seeking process \(discuss major grievances\) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include Node.js and Rust.
 
+## Reference
 
+[https://opensource.guide/leadership-and-governance/](https://opensource.guide/leadership-and-governance/)
 
