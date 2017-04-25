@@ -1,8 +1,12 @@
 # Key Metrics
 
-When using metrics to track the free, open source software \(FOSS\) community, community managers must have an idea of what information they need. For example, they may want to know about the sustainability of the project community. How quickly does the community react to problems? How is the community attracting, retaining, or losing contributors? Once they decide which information you need, they can figure out which traces of community activity are available to provide it. Fortunately, FOSS projects following an open development model tend to leave loads of public data in their software development repositories, which can be analyzed to gather useful data.
+---
 
-The following are some key metrics that help provide a multi-faceted view of any FOSS community.
+So you decided to use metrics to track your free, open source software \(FOSS\) community. Now comes the big question: Which metrics should I be tracking?
+
+To answer this question, you must have an idea of what information you need. For example, you may want to know about the sustainability of the project community. How quickly does the community react to problems? How is the community attracting, retaining, or losing contributors? Once you decide which information you need, you can figure out which traces of community activity are available to provide it. Fortunately, FOSS projects following an open development model tend to leave loads of public data in their software development repositories, which can be analyzed to gather useful data.
+
+In this article, I'll introduce metrics that help provide a multi-faceted view of your project community.
 
 ## 1. Activity
 
@@ -24,13 +28,13 @@ Number of authors and number of posters in mailing lists in the Xen project, as 
 
 ## 3. Performance
 
-So far, I have focused on measuring quantities of activities and contributors. You also can analyzehowprocesses and people are performing. For example, you can measure how long processes take to finish. Time to resolve or close tickets shows how the project is reacting to new information that requires action, such as fixing a reported bug or implementing a requested new feature. Time spent in code review—from the moment when a change to the code is proposed to the moment it is accepted—shows how long upgrading a proposed change to the quality standards expected by the community takes.
+So far, I have focused on measuring quantities of activities and contributors. You also can analyze how processes and people are performing. For example, you can measure how long processes take to finish. Time to resolve or close tickets shows how the project is reacting to new information that requires action, such as fixing a reported bug or implementing a requested new feature. Time spent in code review—from the moment when a change to the code is proposed to the moment it is accepted—shows how long upgrading a proposed change to the quality standards expected by the community takes.
 
 Other metrics deal with how well the project is coping with pending work, such as the ratio of new to closed tickets, or the backlog of still non-completed code reviews. Those parameters tell us, for example, whether or not the resources put into solving issues is enough.
 
 ![](https://opensource.com/sites/default/files/images/business-uploads/efficiency-metrics.png "Efficiency metrics chart")
 
-Ratio of tickets closed by tickets opened, and ratio of change proposals accepted or abandoned by new change proposals per quarter. OpenStack project, as shown in the [OpenStack Development Report, 2015-Q3](http://activity.openstack.org/dash/reports/2015-q3/pdf/2015-q3_OpenStack_report.pdf).
+Ratio of tickets closed by tickets opened, and ratio of change proposals accepted or abandoned by new change proposals per quarter. OpenStack project, as shown in the [OpenStack Development Report, 2015-Q3](http://activity.openstack.org/dash/reports/2015-q3/pdf/2015-q3_OpenStack_report.pdf) \(PDF\).
 
 ## 4. Demographics
 
@@ -50,7 +54,7 @@ The [Pony Factor](https://ke4qqq.wordpress.com/2015/02/08/pony-factor-math/), a 
 
 ![](https://opensource.com/sites/default/files/images/business-uploads/diversity-metrics.png "Diversity metrics chart")
 
-Pony and Elephant Factor for several FOSS projects in the area of cloud computing, as presented in [The quantitative state of the open cloud 2015](https://speakerdeck.com/jgbarah/the-quantitative-state-of-the-open-cloud-2015-edition).
+Pony and Elephant Factor for several FOSS projects in the area of cloud computing, as presented in [The quantitative state of the open cloud 2015](https://speakerdeck.com/jgbarah/the-quantitative-state-of-the-open-cloud-2015-edition) \(slides\).
 
 There are many other metrics to help measure a community. When determining which metrics to collect, think about the goals of your community, and which metrics will help you reach them.
 
