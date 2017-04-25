@@ -32,15 +32,19 @@ If your project is on github.com, you could add an organization to it. Github or
 
 ## Give commit access
 
-Some contributors only make small improvements to the project. In this case, there is no need to grant them commit access, as they will not commit to the project all the time. _Pull Request_, is often used by this type of contributors, to submit their contributions. 
+Some contributors only make small improvements to the project. In this case, there is no need to grant them commit access, as they will not commit to the project all the time. _Pull Request_, is often used by this type of contributors, to submit their contributions.
 
-If a contributor is constantly active in the project, and make a lot of contributions back, then it is a time to consider to give him commit access. Different projects have different requirements on how to gain commit access. In order to have committer, one must show he is passionate, accountable and skillful. 
+If a contributor is constantly active in the project, and make a lot of contributions back, then it is a time to consider to give him commit access. Different projects have different requirements on how to gain commit access. In order to have committer, one must show he is passionate, accountable and skillful.
 
 For projects on github.com, different branches are used for different teams and developers to submit their contributions without causing conflicts among the whole project. It is the job of a project owner/maintainer to decide when to merge different branches.
 
 ## Governance structure
 
-## 
+Based on the size of the leadership team, open source project governance have the following structure:
+
+* BDFL \(Benevolent Dictator for Life\). BDFL means that one person, or a small number of persons, have a final say in the project.  Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category. Projects that are well-known as BDFL include Python, Drupal, Vim, Linux and Scala.
+* Meritocracy: In projects that adopts meritocracy, active project contributors are given a formal decision making role. Decisions are usually made based on pure voting consensus. The meritocracy concept was pioneered by the Apache Foundation; all Apache projects are meritocracies.
+* Liberal contribution: Under a liberal contribution model, major project decisions are made based on a consensus seeking process \(discuss major grievances\) rather than pure vote, and strive to include as many community perspectives as possible. Popular examples of projects that use a liberal contribution model include Node.js and Rust.
 
 
 
