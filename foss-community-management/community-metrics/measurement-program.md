@@ -1,10 +1,14 @@
 # Measurement Program
 
+---
+
 Community measurement program serves as a constant reminder of what you want to achieve in the program and should be used as metrics themselves when deciding exactly what they are going to measure.
 
 The following article discusses basic strategy for deciding what to measure, and give examples of specific community metrics we've used in practice. Using the knowledge of community and the goals community managers came up with, it is important to ensure that the metrics that they choose are relevant.
 
 ## Objectives of Measurement
+
+---
 
 ### **Who contributes?**
 
@@ -21,9 +25,13 @@ The following article discusses basic strategy for deciding what to measure, and
 
 ## Types of Measurement
 
+---
+
 There are two major types of metrics used to report on communities: qualitative and quantitative. Qualitative metrics are those that use spoken or written words to convey feedback, such as online surveys, formal usability testing, or in-person discussions. These can capture both structured and unstructured data, and if tracked over time can provide valuable measurement of progress toward your goals. Qualitative metrics are most useful to measure things like "Are the API docs effective enough for your project?" or "What do you think the community should focus on in the next 6-12 months?" The answers can help you understand the pulse of your community and what changes \(if any\) need to be made. Choosing good questions can be difficult, as it's easy to introduce [bias](https://en.wikipedia.org/wiki/Response_bias) accidentally, ask questions for which you have no plan to act on, or questions whose answers don't relate to your goals.
 
 ## Selection of Metrics
+
+---
 
 Surveys and studies are great but take an ongoing commitment, whereas the collection and processing of quantitative metrics can often be automated and can provide long-term and consistent benefit after the upfront cost of setting it up. Minimizing \(if not removing\) human emotion and error from a metrics program is very attractive to technically oriented folks in our industry. Ben Yoskovitz, co-author of [Lean Analytics](http://leananalyticsbook.com/), put it this way: "Quantitative data abhors emotion; qualitative data marinates in it."
 
