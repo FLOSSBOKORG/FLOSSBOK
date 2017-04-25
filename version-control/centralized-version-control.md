@@ -1,5 +1,7 @@
 # Centralized Version Control
 
+---
+
 Centralized version control systems are based on the idea that there is a single “central” copy of your project somewhere \(probably on a server\), and programmers will “commit” their changes to this central copy.
 
 “Committing” a change simply means recording the change in the central system. Other programmers can then see this change. They can also pull down the change, and the version control tool will automatically update the contents of any files that were changed.
@@ -10,9 +12,9 @@ Centralized version control solves the problems described in the the article abo
 
 Most common centralized version control systems include CVS, Subversion \(or SVN\) and Perforce.
 
----
-
 ## A Typical Centralized Version Control Workflow {#WhatisVersionControl-ATypicalCentralizedVersionControlWorkflow}
+
+---
 
 When you’re working with a centralized verison control system, your workflow for adding a new feature or fixing a bug in your project will usually look something like this:
 

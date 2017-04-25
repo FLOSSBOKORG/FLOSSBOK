@@ -1,5 +1,7 @@
 # Distributed Version Control
 
+---
+
 In the past five years or so a new breed of tools has appeared: so-called “distributed” version control systems \(DVCS for short\). The three most popular of these are Mercurial, [Git](http://www.atlassian.com/git/) and Bazaar.
 
 These systems do not necessarily rely on a central server to store all the versions of a project’s files. Instead, every developer “clones” a copy of a repository and has the **full** history of the project on their own hard drive. This copy \(or “clone”\) has _all_ of the metadata of the original.
@@ -10,9 +12,9 @@ The action of getting new changes from a repository is usually called “pulling
 
 One common misconception about distributed version control systems is that there _cannot_ be a central project repository. This is simply not true – there is nothing stopping you from saying “this copy of the project is the authoritative one.” This means that instead of a central repository being _required_ by the tools you use, it is now optional and purely a social issue.
 
----
-
 ## Advantages Over Centralized Version Control {#WhatisVersionControl-AdvantagesOverCentralizedVersionControl}
+
+---
 
 The act of cloning an entire repository gives distributed version control tools several advantages over [centralized version control](/version-control/centralized-version-control.md) systems:
 
@@ -24,6 +26,8 @@ The act of cloning an entire repository gives distributed version control tools 
 * Since each programmer has a full copy of the project repository, they can share changes with one or two other people at a time if they want to get some feedback before showing the changes to everyone.
 
 ## Disadvantages Compared to Centralized Version Control {#WhatisVersionControl-DisadvantagesComparedtoCentralizedVersionControl}
+
+---
 
 To be quite honest, there are almost no disadvantages to using a distributed version control system over a centralized one. Distributed systems do _not_ prevent you from having a single “central” repository, they just provide more options on top of that.
 
