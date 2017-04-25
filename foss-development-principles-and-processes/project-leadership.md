@@ -18,7 +18,25 @@ Being a maintainer of a project does not mean that he has to write a lot of code
 
 A contributor could be anyone, who has commented on an issue, making a pull request, writing documentation and/or translation. Anyone who has add value to the project is a contributor.
 
+## Formalize the roles
 
+For small projects, the creator, owner and maintainer may be the same people, so adding all contributors in README or CONTRIBUTORS should be good enough.
+
+For bigger projects, it would be nice to have a webpage dedicated to the list of contributors for your project, including the team structures, and team leaders. For example, the Linux Foundation has a webpage for their leaderships. [https://www.linuxfoundation.org/about/leadership](https://www.linuxfoundation.org/about/leadership)
+
+Projects with a very active community will have a core team of maintainers. And the community will have a dedicated channel of communication. Sometimes, even people from outside the project will start discussing the project outside the official community channels/forums. For example, developers from different countries will start a new website to discuss the same project in their own language. The FreeCodeCamp project is an example. This is the official forum [https://forum.freecodecamp.com/](https://forum.freecodecamp.com/) and this is the Chinese gitter chat room[ https://gitter.im/FreeCodeCamp/chinese. ](https://gitter.im/FreeCodeCamp/chinese)
+
+Some projects have leadership members hosting office hours \(Ruby\). 
+
+Once you have formalize the roles, don't forget to document it. It makes 
+
+If your project is on github.com, you could add an organization to it.
+
+## Give commit access
+
+## Governance structure
+
+## 
 
 
 
