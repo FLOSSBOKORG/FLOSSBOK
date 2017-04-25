@@ -16,7 +16,7 @@ When you see negative behavior happening on your project, call it out publicly. 
 
 In your CONTRIBUTING file, explicitly tell new contributors how to get started. You may even want to make a dedicated section for this purpose. Django, for example, has a special landing page to welcome new contributors.
 
-![](https://opensource.guide/assets/images/building-community/django_new_contributors.png "django new contributors page")
+
 
 In your issue queue, label bugs that are suitable for different types of contributors: for example,_“first timers only”_,_“good first bug”_, or_“documentation”_.These labels make it easy for someone new to your project to quickly scan your issues and get started.
 
@@ -32,7 +32,7 @@ See if you can find ways to share ownership with your community as much as possi
 
 * **Start a CONTRIBUTORS or AUTHORS file in your project **that lists everyone who’s contributed to your project.
 
-* If you’ve got a sizeable community, **send out a newsletter or write a blog post **thanking contributors. 
+* If you’ve got a sizeable community, **send out a newsletter or write a blog post **thanking contributors.
 
 * **Give every contributor commit access.**[ ](https://github.com/felixge)This made people more excited to polish their patches, and there would be new maintainers for projects .
 
