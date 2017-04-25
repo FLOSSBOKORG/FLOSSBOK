@@ -32,7 +32,7 @@ If your project is on github.com, you could add an organization to it. Github or
 
 ## Give commit access
 
-
+Some contributors only make small improvements to the project. In this case, there is no need to grant them commit access, as they will not commit to the project all the time. _Pull Request_, is often 
 
 ## Governance structure
 
