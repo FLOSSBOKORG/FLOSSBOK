@@ -1,4 +1,4 @@
-# Top Five Metrics
+# Key Metrics
 
 When using metrics to track the free, open source software \(FOSS\) community, community managers must have an idea of what information they need. For example, they may want to know about the sustainability of the project community. How quickly does the community react to problems? How is the community attracting, retaining, or losing contributors? Once they decide which information you need, they can figure out which traces of community activity are available to provide it. Fortunately, FOSS projects following an open development model tend to leave loads of public data in their software development repositories, which can be analyzed to gather useful data.
 
