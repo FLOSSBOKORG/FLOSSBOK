@@ -5,7 +5,7 @@
 * [FOSS History](foss-history.md)
 * [FOSS Use](foss-use.md)
 * [FOSS Applications](foss-applications.md)
-  * FOSS Infrastructure
+  * [FOSS Infrastructure](foss-applications/foss-infrastructure.md)
   * FOSS user application
 * [FOSS Development Principles and Processes](foss-development-principles-and-processes.md)
   * [Project Creation](foss-development-principles-and-processes/project-creation.md)
@@ -20,7 +20,7 @@
     * Packaging
     * Testing and Releasing
     * Maintaining Multiple Release Lines
-    *  Releases and Daily Development
+    * Releases and Daily Development
 * [FOSS Development Infrastructure and Tools](foss-development-infrastructure-and-tools.md)
   * [Repository](repository.md)
   * [Communication Mechanisms](communication-mechanisms.md)
