@@ -20,7 +20,7 @@
     * [Packaging](foss-development-principles-and-processes/release/packaging.md)
     * [Testing and Releasing](foss-development-principles-and-processes/release/testing-and-releasing.md)
     * [Maintaining Multiple Release Lines](foss-development-principles-and-processes/release/maintaining-multiple-release-lines.md)
-    * [Releases and Daily Development](foss-development-principles-and-processes/release/releases-and-daily-development.md)
+    * [Planning Releases](foss-development-principles-and-processes/release/releases-and-daily-development.md)
 * [FOSS Development Infrastructure and Tools](foss-development-infrastructure-and-tools.md)
   * [Repository](repository.md)
   * [Communication Mechanisms](communication-mechanisms.md)
