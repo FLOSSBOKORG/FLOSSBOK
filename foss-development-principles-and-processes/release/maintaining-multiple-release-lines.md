@@ -4,10 +4,7 @@ Most mature projects have multiple release lines in parallel. This means that th
 
 After the 1.1.x line is more stable, the 1.0.x line can be cut. This can be announced in 1.1.x release announcement, or in a separate announcement. But no matter way you use, you need to let users know so that they can make upgrade decisions accordingly.
 
-Some projects set a window of time during which they pledge to support the previous release line. In an open source context, "support" means accepting bug reports against that line, and making mainte- nance releases when significant bugs are found. Other projects don't give a definite amount of time, but watch incoming bug reports to gauge how many people are still using the older line. When the percent- age drops below a certain point, they declare end of life for the line and stop supporting it.
-
-For each release, make sure to have a target version or target milestone available in the bug tracker,  
-so people filing bugs will be able to do so against the proper release. Don't forget to also have a target called "development" or "latest" for the most recent development sources, since some people — not only active developers — will often stay ahead of the official releases.
+Some projects still have a time window in which they previous release lines are still maintained, which means that they still accept bug reports and making maintenance releases when significant bugs are found. Other projects don't give this kind support for previous lines anymore, but they watch incoming bug reports to calculate how many people are still using the older line. When the percentage drops below a certain point, they will cut that line.
 
 ## Security Releases
 
