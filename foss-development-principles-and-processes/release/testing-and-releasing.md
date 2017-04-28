@@ -12,11 +12,9 @@ A candidate release should be treated the same as a real release. The alpha, bet
 
 ## Announcing Releases
 
-Announcing a release is like announcing any other event, and should use the procedures described in the section called “Publicity” in Chapter 6, Communications. There are a few specific things to do for re- leases, though.
+When writing the URL to the downloadable release tarball, make sure to also write the MD5/ SHA1 checksums and pointers to the digital signatures file. Because the release announcement is in multiple forums, users can get the checksums from multiple sources, which can give users the assurance that the checksums have not been tampered with. What's more, it assures people that the project takes security seriously.
 
-Whenever you write the URL to the downloadable release tarball, make sure to also write the MD5/ SHA1 checksums and pointers to the digital signatures file. Since the announcement happens in multi- ple forums \(mailing list, news page, etc.\), this means users can get the checksums from multiple sources, which gives the most security-conscious among them extra assurance that the checksums themselves have not been tampered with. Meanwhile, giving the link to the digital signature files multiple times doesn't make those signatures more secure, but it does reassure people \(especially those who don't fol- low the project closely\) that the project takes security seriously.
+In the announcement email, make sure to include the relevant portion of the CHANGES file, so people can see why it might be in their interests to upgrade. The presence of bug fixes and new features can attract more users to have a try on the candidate release.
 
-In the announcement email, and on news pages that contain more than just a blurb about the release, make sure to include the relevant portion of the CHANGES file, so people can see why it might be in their interests to upgrade. This is as important with candidate releases as with final releases; the presence of bugfixes and new features is important in tempting people to try out a candidate release.
-
-Finally, don't forget to thank the development team, the testers, and all the people who took the time to file good bug reports. Don't single out anyone by name, though, unless there's someone who is individ- ually responsible for a huge piece of work, the value of which is widely recognized by everyone in the project. Be wary of sliding down the slippery slope of credit inflation \(see the section called “Credit” in Chapter 8, Managing Participants\).
+Finally, you always need to thank the development team, the testers, and all the users who took the time to report bugs. Don't thank anyone alone by name, unless she is individually responsible for a huge piece of work, which is widely recognized by everyone in the project.
 
