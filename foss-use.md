@@ -13,7 +13,7 @@ According to the survey, 78% companies are run on OSS, and 66% of them are creat
 * 66% of companies are considering OSS as a default approach before other options for their next product.
 * 55% of companies believe that open source delivers superior security when lined up against proprietary solutions. The superior security of open source is also expected to rise to 61% over the next 2-3 years.
 * 58% think open source scales better and 43% said OSS provides superior ease of deployment over proprietary software.
-* When evaluating security technologies for internal use, 45% of respondents said open source options are given first consideration.
+* When evaluating security technologies for internal use, 45% of companies say that open source options are given first consideration.
 * Looking ahead, those who took the survey saw cloud computing \(39%\), big data \(35%\), operating systems \(33%\), and the Internet of Things \(31%\) being impacted by OSS in the next 2-3 years.
 
 ### Some problems remains in the adoption of OSS
@@ -24,11 +24,11 @@ According to the survey, 78% companies are run on OSS, and 66% of them are creat
 
 ## Categories of OSS used in business
 
-http://www.techrepublic.com/blog/10-things/10-best-uses-for-open-source-software-in-the-business-world
+[http://www.techrepublic.com/blog/10-things/10-best-uses-for-open-source-software-in-the-business-world](http://www.techrepublic.com/blog/10-things/10-best-uses-for-open-source-software-in-the-business-world)
 
 1: Server software
 
-If you're still battling Microsoft's IIS platform, you need to experience Apache. The flagship open source web server software is one of the most widely used on the planet. It's free, incredibly reliable, easy to manage, and doesn't require the enormous overhead needed for IIS. But open source isn't limited to just web servers. If you need SMB sharing across your company, consider Samba. Samba 4 even integrates with Active Directory, so you don't have to worry about setting up separate user accounts on the Samba server.
+As for now, the world has 49.7% servers running on Apache. \([https://w3techs.com/technologies/details/ws-apache/all/all](https://w3techs.com/technologies/details/ws-apache/all/all)\). The Apache server is what Facebook used when it was only an startup in 2004. It is free but incredibly reliable. And it is easy to manage as well. There are tons of resources online for how to configure and run Apache as a server. 
 
 2: Development
 
@@ -50,7 +50,7 @@ Every business depends upon workflow. For some businesses, a smooth workflow dep
 
 Do you know how to recognize a big idea?
 
-It’s not obvious. Until it is. Join us for the Microsoft Business Forward keynote on May 3 for exclusive insight into our strategies & solutions. 
+It’s not obvious. Until it is. Join us for the Microsoft Business Forward keynote on May 3 for exclusive insight into our strategies & solutions.
 
 7: Big data
 
