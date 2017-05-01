@@ -1,10 +1,14 @@
 # Community Planning
 
-Team division
+To plan for success, we need to understand the open source community structure first, and try to optimize it. 
 
-Team communication
+Generally, an open source project has multiple teams that focus on different aspects/features and are loosely coupled. The optimization will be how to divide teams wisely and how to make the communication among teams efficiently.
 
-Community planning
+## Team division
+
+## Team communication
+
+## Planning for success
 
 
 
