@@ -2,23 +2,15 @@
 
 **Project Creation:**
 
-### Defining goals {#what-are-your-goals}
+**Defining goals**: Identify what is your project's vision and what are target users 
 
-### Choosing A License {#choosing-a-license}
+**Choosing A License: **The license is aim to protect the contributors' right
 
-### Code Organization {#code-organization}
+**Documentation: **Document the basic rules for the FOSS, decide an order for the community to follow.
 
-### Documentation {#documentation}
+**Use Version Numbers**
 
-### Use Version Numbers {#use-version-numbers}
-
-### Managing Contributions {#managing-contributions}
-
-
-
-
-
-
+**Managing Contributions**
 
 
 
