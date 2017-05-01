@@ -28,15 +28,15 @@ According to the survey, 78% companies are run on OSS, and 66% of them are creat
 
 1: Server software
 
-As for now, the world has 49.7% servers running on Apache. \([https://w3techs.com/technologies/details/ws-apache/all/all](https://w3techs.com/technologies/details/ws-apache/all/all)\). The Apache server is what Facebook used when it was only an startup in 2004. It is free but incredibly reliable. And it is easy to manage as well. There are tons of resources online for how to configure and run Apache as a server. 
+As for now, the world has 49.7% servers running on Apache. \([https://w3techs.com/technologies/details/ws-apache/all/all](https://w3techs.com/technologies/details/ws-apache/all/all)\). The Apache server is what Facebook used when it was only an startup in 2004. It is free but incredibly reliable. And it is easy to manage as well. There are tons of resources online for how to configure and run Apache as a server.
 
 2: Development
 
-Developing with open source is a no-brainer. PHP, Rails, Perl — there are as many languages to develop with as there are tools \(from IDEs to bug tracking\). There are a lot of options for developing for open source or with open source tools \(as are there with proprietary development\). The biggest difference between open source and proprietary is the access you have to the software code. Within the world of FOSS \(free open source software\) the code is readily available. For many developers, the Linux operating system has everything they need to develop, built right in \(especially those who code without a full-blown IDE\). If you do require GUI development tools, open source has you covered.
+There are many programming languages that are open sourced, including PHP, Go, Python, Ruby and more. Along with the programming languages are hundreds of developing framework, IDE and libraries like NodeJS, Atom and TensorFlow. More and more developers are considering open source options as their first choice before anything else. With an active community, the documentation is more readable and the issue tracking is more in time. Developers find it easy to develop with open source software. 
 
 3: Security
 
-The route to security is a challenging one, but there are many paths to success. You can opt for the "security in a box" solution and go with the likes of Cisco \(a solid solution\) or you can craft your security to perfectly fit your needs with the likes of iptables. Yes, the open source security route will take a bit more time to deploy \(with a much higher learning curve\), but the end results are generally incredible. This doesn't even address the idea that using open source on the desktop is, generally speaking, a more secure platform than most proprietary systems. Deploy Linux on the desktops and your security woes will drop dramatically.
+The path to security cannot avoid open source software. From network security to desktop security, Linux and Apache are playing a great role. Although deploying an open source security route will take more time, but the end results are generally incredible.
 
 4: Desktops
 
