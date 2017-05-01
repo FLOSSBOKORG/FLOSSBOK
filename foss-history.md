@@ -1,6 +1,4 @@
 # FOSS History
 
-TO DO.
-
 
 
