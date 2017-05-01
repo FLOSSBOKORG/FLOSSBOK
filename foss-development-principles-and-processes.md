@@ -2,7 +2,7 @@
 
 **Project Creation:**
 
-**Defining goals**: Identify what is your project's vision and what are target users 
+**Defining goals**: Identify what is your project's vision and what are target users
 
 **Choosing A License: **The license is aim to protect the contributors' right
 
@@ -11,6 +11,4 @@
 **Use Version Numbers**
 
 **Managing Contributions**
-
-
 
