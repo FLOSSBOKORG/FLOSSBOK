@@ -1,6 +1,6 @@
 # **Revenue Logic of FOSS**
 
-"OSS profitability and business models are still poorly understood and there is no single framework that would explain their potential determinants. The most critical issue for an OSS business is that the licensing terms used allow the free redistribution of the licensed software. Therefore, it is usually not feasible to base revenue on licensing fees.
+FOSS profitability and business models are still poorly understood and there is no single framework that would explain their potential determinants. The most critical issue for an OSS business is that the licensing terms used allow the free redistribution of the licensed software. Therefore, it is usually not feasible to base revenue on licensing fees.
 
 Rajala et al. [identify](http://is2.lse.ac.uk/asp/aspecis/20030126.pdf) the following essential elements in any business model for software companies:
 
@@ -10,10 +10,9 @@ Rajala et al. [identify](http://is2.lse.ac.uk/asp/aspecis/20030126.pdf) the foll
 
 * sales channel options
 
-* servicing and implementation approach
+* servicing and implementation approach  
   [\[1\]](http://is2.lse.ac.uk/asp/aspecis/20030126.pdf)
 
-  
 Jussi Nissila identifies the key elements of any software business model in slightly different terms:
 
 * value creation and revenue logic
