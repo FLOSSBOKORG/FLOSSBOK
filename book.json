@@ -2,7 +2,7 @@
   "plugins": ["download-pdf-link"],
   "pluginsConfig": {
     "download-pdf-link": {
-      "base": "https://www.gitbook.com/book/qianxux/flossbok/",
+      "base": "https://github.com/QianXuX/FLOSSBOK",
       "label": {
           "en": "Download PDF"
       }
