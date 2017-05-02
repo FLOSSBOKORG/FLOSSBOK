@@ -42,6 +42,8 @@
     * [Key Metrics](foss-community-management/community-metrics/key-metrics.md)
   * [Continual Development of Community](foss-community-management/continual-development-of-community.md)
 * [Legal Issues](legal-issues.md)
+  * Copyrights
+  * Open Source Licenses
 * [Business Issues](business-issues.md)
   * [FOSS Business Models](business-issues/revenue-logic-of-foss.md)
   * [Community & Commercial Development](business-issues/community-and-commercial-development.md)
