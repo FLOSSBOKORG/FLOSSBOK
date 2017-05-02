@@ -1,4 +1,4 @@
-# **Revenue Logic of FOSS**
+# **FOSS Business Models**
 
 FOSS profitability and business models are still poorly understood and there is no single framework that would explain their potential determinants. The most critical issue for an OSS business is that the licensing terms used allow the free redistribution of the licensed software. Therefore, it is usually not feasible to base revenue on licensing fees.
 
