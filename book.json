@@ -1,10 +1,10 @@
 {
-  "plugins": ["download-pdf-link"],
+  "plugins": ["downloadpdf"],
   "pluginsConfig": {
-    "download-pdf-link": {
-      "label": {
-          "en": "Download PDF"
-      }
+    "downloadpdf": {
+      "base": "https://github.com/zhaoda/webpack-handbook/edit/master/content",
+      "label": "Download PDF",
+      "multilingual": false
     }
   }
 }
