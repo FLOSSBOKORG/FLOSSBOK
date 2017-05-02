@@ -44,4 +44,5 @@
 * [Legal Issues](legal-issues.md)
 * [Business Issues](business-issues.md)
   * [Revenue Logic of FOSS](business-issues/revenue-logic-of-foss.md)
+  * [Community & Commercial Development](business-issues/community-and-commercial-development.md)
 
