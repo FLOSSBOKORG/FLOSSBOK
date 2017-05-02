@@ -4,7 +4,7 @@
 
 ### **Over 78% of companies are using open source software. And only less than 3% do not use OSS in any ways.**
 
-[http://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/](http://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/)
+[Reference](http://www.zdnet.com/article/its-an-open-source-world-78-percent-of-companies-run-open-source-software/)
 
 According to the survey, 78% companies are run on OSS, and 66% of them are creating software for customers that use OSS. And the number has doubled since 2010, when only 42% companies were run on OSS.
 
@@ -32,7 +32,7 @@ As for now, the world has 49.7% servers running on Apache. \([https://w3techs.co
 
 2: Development
 
-There are many programming languages that are open sourced, including PHP, Go, Python, Ruby and more. Along with the programming languages are hundreds of developing framework, IDE and libraries like NodeJS, Atom and TensorFlow. More and more developers are considering open source options as their first choice before anything else. With an active community, the documentation is more readable and the issue tracking is more in time. Developers find it easy to develop with open source software. 
+There are many programming languages that are open sourced, including PHP, Go, Python, Ruby and more. Along with the programming languages are hundreds of developing framework, IDE and libraries like NodeJS, Atom and TensorFlow. More and more developers are considering open source options as their first choice before anything else. With an active community, the documentation is more readable and the issue tracking is more in time. Developers find it easy to develop with open source software.
 
 3: Security
 
