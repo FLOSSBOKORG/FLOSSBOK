@@ -10,8 +10,7 @@ Rajala et al. [identify](http://is2.lse.ac.uk/asp/aspecis/20030126.pdf) the foll
 
 * sales channel options
 
-* servicing and implementation approach  
-  [\[1\]](http://is2.lse.ac.uk/asp/aspecis/20030126.pdf)
+* servicing and implementation approach[ \[1\]](http://is2.lse.ac.uk/asp/aspecis/20030126.pdf)
 
 Jussi Nissila identifies the key elements of any software business model in slightly different terms:
 
