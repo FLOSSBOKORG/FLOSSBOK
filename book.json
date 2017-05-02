@@ -4,8 +4,7 @@
     "download-pdf-link": {
       "base": "https://www.gitbook.com/book/poppy-project/poppy-docs/",
       "label": {
-          "en": "Download PDF",
-          "fr": "Télécharger le PDF"
+          "en": "Download PDF"
       }
     }
   }
