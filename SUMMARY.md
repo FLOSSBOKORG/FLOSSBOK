@@ -43,4 +43,5 @@
   * [Continual Development of Community](foss-community-management/continual-development-of-community.md)
 * [Legal Issues](legal-issues.md)
 * [Business Issues](business-issues.md)
+  * [Revenue Logic of FOSS](business-issues/revenue-logic-of-foss.md)
 
