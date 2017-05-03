@@ -4,7 +4,7 @@ In open source software development, a repository is a file archive and web host
 
 [Version Control Repository - Wikipedia](https://www.gitbook.com/book/qianxux/flossbok/edit#)
 
-[https://en.wikipedia.org/wiki/Comparison\_of\_source\_code\_hosting\_facilities](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities "Comparison of source code hosting facilities")
+[Comparison of source code hosting](https://en.wikipedia.org/wiki/Comparison_of_source_code_hosting_facilities)
 
 ## Types and management of repository
 
@@ -20,7 +20,7 @@ Some of the metadata that a repository contains includes, among other things:
 * A set of commit objects.
 * A set of references to commit objects, called heads.
 
-## Features to consider when choose your software repository
+## Features to consider when choosing software repository
 
 * What functionality do you need now?
 * Access Control \(e.g. setting up project level roles\)
@@ -41,7 +41,7 @@ Some of the metadata that a repository contains includes, among other things:
 * Would it be better to use more than one repository, e.g. code stored in GitHub and a link to Assembla for its extra tools?
 * What are the Service Level Agreements for uptime, downtime, time to fix outages and bandwidth?
 
-[https://www.software.ac.uk/resources/guides/choosing-repository-your-software-project](https://www.software.ac.uk/resources/guides/choosing-repository-your-software-project)
+[Reference](https://www.software.ac.uk/resources/guides/choosing-repository-your-software-project)
 
 ## Examples of repository web hosting service
 
