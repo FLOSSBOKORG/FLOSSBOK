@@ -2,7 +2,7 @@
   "plugins": ["downloadpdf"],
   "pluginsConfig": {
     "downloadpdf": {
-      "base": "https://github.com/zhaoda/webpack-handbook/edit/master/content",
+      "base": "https://github.com/QianXuX/FLOSSBOK/",
       "label": "Download PDF",
       "multilingual": false
     }
