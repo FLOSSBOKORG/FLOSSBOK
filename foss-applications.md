@@ -2,7 +2,7 @@
 
 **Open Source Infrastructure**
 
-Open source Infrastructure generally is defined as the free open source tools that can support the software daily running and maintenance. This includes the basic network communication, operating system and some security tools, the classification are as follow
+Open source Infrastructure generally is defined as the free open source tools that can support the software daily running and maintenance. This includes the basic network communication, operating system and some security tools, the classification are as follow:
 
 1.HTTP Accelerator
 
@@ -10,7 +10,7 @@ Open source Infrastructure generally is defined as the free open source tools th
 
 3.Remote Computer Control
 
-4. Security
+4.Security
 
 5.VPN
 
@@ -18,11 +18,13 @@ Open source Infrastructure generally is defined as the free open source tools th
 
 
 
+
+
 **Open Source End User Application**
 
-**Top 5 Open Source Project Management Tools: **Tuleap Open ALM, OrangeScrum,Taiga, Odoo,MyCollab
+1.**Top 5 Open Source Project Management Tools: **Tuleap Open ALM, OrangeScrum,Taiga, Odoo,MyCollab
 
-**Top 4 Open Source Editors: **gedit,Geany,Sublime Text , jEdit
+2.**Top 4 Open Source Editors: **gedit,Geany,Sublime Text , jEdit
 
-**Top 8 Open Source Data Visualization Tools: **Datawrapper Chart JS Charted D3 Dygraphs Raw Timeline Leaflet
+3.**Top 8 Open Source Data Visualization Tools: **Datawrapper Chart JS Charted D3 Dygraphs Raw Timeline Leaflet
 
