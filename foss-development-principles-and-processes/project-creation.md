@@ -44,3 +44,23 @@ In addition to helping with tracking, version numbers do a number of other great
 
 **Managing Contributions: **Allow committee to supervise each merge on the project to ensure the safety of the project.
 
+Once you have everything set up, the next step is to figure out how you will accept contributions. Your contribution model can be as informal or formal as you’d like, depending on your goals. For a personal project, you might not have any formal contribution process. The developer guide would lay out what is necessary in order for the code to be merged into the repository and would state that as long as a submission follows that format, then the contribution will be accepted. For a larger project, you might want to have a more formal policy.
+
+The first thing to look into is whether you will require a contributor license agreement \(CLA\). CLAs are used in many large open-source projects to protect the legal rights of the project. Every person who submits code to the project would need to fill out a CLA certifying that any contributed code is original work and that the copyright for that work is being turned over to the project. CLAs also give the project owner license to use the contribution as part of the project, and it warrants that the contributor isn’t knowingly including code to which someone else has a copyright, patent or other right. jQuery, YUI and Dojo all require CLAs for code submissions. If you are considering requiring a CLA from contributors, then getting legal advice regarding it and your licensing structure would be worthwhile.
+
+Next, you may want to establish a hierarchy of people working on the project. Open-source projects typically have three primary designations:
+
+Contributor
+
+Anyone who has had source code merged into the repository is considered a contributor. The contributor cannot access the repository directly but has submitted patches that have been accepted.
+
+Committer
+
+People who have direct access to the repository are committers. These people work on features and fix bugs regularly, and they submit code directly to the repository.
+
+Reviewer
+
+The highest level of contributor, reviewers are commanders who also have directional impact on the project. Reviewers fulfill their title by reviewing submissions from contributors and committers, approving or denying patches, promoting or demoting committers, and generally running the project.
+
+If you’re going to have a formal hierarchy such as this, you’ll need to draft a document that describes the role of each type of contributor and how one may be promoted through the ranks. YUI has just created a formal “Contributor Model,” along with excellent documentation on roles and responsibilities.
+
