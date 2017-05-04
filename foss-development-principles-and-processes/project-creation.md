@@ -1,6 +1,8 @@
 # Project Creation
 
-**Project Creation: **Decide the view of the project and what should be accomplished and the target customers.
+**Project Initialization: **Decide the view of the project and what should be accomplished and the target customers.
+
+
 
 **Defining goals**: Identify what is your project's vision and what are target users
 
@@ -11,6 +13,4 @@
 **Use Version Numbers: **The version number is aim to provide a mechanism to provide
 
 **Managing Contributions: **Allow committee to supervise each merge on the project to ensure the safety of the project.
-
-
 
