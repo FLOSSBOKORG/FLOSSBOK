@@ -66,7 +66,7 @@ Geany \(IPA:ʒeːniː\) is a lightweight GUI text editor using Scintilla and GTK
 
 3.**Top 8 Open Source Data Visualization Tools: **Datawrapper Chart JS Charted D3 Dygraphs Raw Timeline Leaflet
 
-Leaflet is a widely used open source JavaScript library used to build web mapping applications. First released in 2011,\[2\] it supports most mobile and desktop platforms, supporting HTML5 and CSS3. Along with OpenLayers, and the Google Maps API, it is one of the most popular JavaScript mapping libraries and is used by major web sites such as FourSquare, Pinterest and Flickr.
+Leaflet is a widely used open source JavaScript library used to build web mapping applications. First released in 2011, it supports most mobile and desktop platforms, supporting HTML5 and CSS3. Along with OpenLayers, and the Google Maps API, it is one of the most popular JavaScript mapping libraries and is used by major web sites such as FourSquare, Pinterest and Flickr.
 
 Leaflet allows developers without a GIS background to very easily display tiled web maps hosted on a public server, with optional tiled overlays. It can load feature data from GeoJSON files, style it and create interactive layers, such as markers with popups when clicked.
 
