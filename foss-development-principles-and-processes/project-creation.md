@@ -34,5 +34,13 @@ There are many other open-source licenses, but these tend to be the most commonl
 
 **Use Version Numbers: **The version number is aim to provide a mechanism to provide
 
+One common mistake made with open-source projects is neglecting to use version numbers. Version numbers are incredibly important for the long-term stability and maintenance of your project. When bugs came in, I had no idea whether people were using the most recent version because there was no way for them to tell when the code was released. Bugs were being reported that had already been fixed, but there was no way for the end user to figure that out.
+
+Stamping each release with an official version number puts a stake in the ground. When somebody files a bug, you can ask what version they are using and then check whether that bug has already been fixed. This greatly reduced the amount of time I spent with bug reports because I was able to quickly determine whether someone was using the most recent version.
+
+Unless your project has been previously used and vetted, start the version number at 0.1.0 and go up incrementally with each release. Don’t get me wrong: there are no set rules on how to increase version numbers in a project, though there are a couple of resources worth looking at: Apache APR Versioning and Semantic Versioning. Just pick something and stick with it.
+
+In addition to helping with tracking, version numbers do a number of other great things for your project.
+
 **Managing Contributions: **Allow committee to supervise each merge on the project to ensure the safety of the project.
 
