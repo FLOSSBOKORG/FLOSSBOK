@@ -12,6 +12,8 @@ If you are going to continue developing the code, do you want to accept contribu
 
 **Choosing A License: **The license is aim to protect the contributors' right
 
+
+
 **Documentation: **Document the basic rules for the FOSS, decide an order for the community to follow.
 
 **Use Version Numbers: **The version number is aim to provide a mechanism to provide
