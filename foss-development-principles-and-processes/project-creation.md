@@ -12,9 +12,25 @@ If you are going to continue developing the code, do you want to accept contribu
 
 **Choosing A License: **The license is aim to protect the contributors' right
 
+Before you share your code, the most important decision to make is what license to apply. The open-source license that you choose could greatly help or hurt your chances of attracting contributors. All licenses allow you to retain the copyright of the code you produce. While the concept of licensing is quite complex, there are a few common licenses and a few basic things you should know about each. \(If you are open-sourcing a project on behalf of a company, please speak to your legal counsel before choosing a license.\)
 
+GPL
 
-**Documentation: **Document the basic rules for the FOSS, decide an order for the community to follow.
+The GNU Public License was created for the GNU project and has been credited with the rise of Linux as a viable operating system. The GPL license requires that any project using a GPL-licensed component must also be made available under the GPL. To put it simply, any project using a GPL-licensed component in any way must also be open-sourced under the GPL. There is no restriction on the use of GPL-licensed applications; the restriction only has to do with the modification and distribution of derived works.
+
+LGPL
+
+The Lesser GPL is a slightly more permissive version of GPL. An LGPL-licensed component may be linked to from an application without the application itself needing to be open-sourced under GPL or LGPL. In all other ways, LGPL is the same as GPL, so any derived works must also be open-sourced under GPL or LGPL.
+
+MIT
+
+Also called X11, this licence is permissive, allowing for the use and redistribution of code so long as the license and copyright are included along with it. MIT-licensed code may be included in proprietary code without any additional restrictions. Additionally, MIT-licensed code is GPL-compatible and can be combined with such code to create new GPL-licensed applications.
+
+BSD3
+
+This is also a permissive license that allows for the use and redistribution of code as long as the license and copyright are included with it. In addition, any redistribution of the code in binary form must include a license and copyright in its available documentation. The clause that sets BSD3 apart from MIT is the prohibition of using the copyright holder’s name to promote a product that uses the code. For example, if I wrote some code and licensed it under BSD3, then an application that uses that code couldn’t use my name to promote the product without my permission. BSD3-licensed code is also compatible with GPL.
+
+There are many other open-source licenses, but these tend to be the most commonly discussed and used.**Documentation: **Document the basic rules for the FOSS, decide an order for the community to follow.
 
 **Use Version Numbers: **The version number is aim to provide a mechanism to provide
 
