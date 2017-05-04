@@ -36,11 +36,11 @@ A virtual private network \(VPN\) extends a private network across a public netw
 
 FreeBSD is a free and open source Unix-like operating system descended from Research Unix via the Berkeley Software Distribution \(BSD\). Although for legal reasons FreeBSD cannot use the Unix trademark, it is a direct descendant of BSD, which was historically also called "BSD Unix" or "Berkeley Unix". The first version of FreeBSD was released in 1993, and today FreeBSD is the most widely used open-source BSD distribution, accounting for more than three-quarters of all installed systems running open-source BSD derivatives.
 
-
-
 **Open Source End User Application**
 
 1.**Top 5 Open Source Project Management Tools: **Tuleap Open ALM, OrangeScrum,Taiga, Odoo,MyCollab
+
+
 
 2.**Top 4 Open Source Editors: **gedit,Geany,Sublime Text , jEdit
 
