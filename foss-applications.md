@@ -40,7 +40,21 @@ FreeBSD is a free and open source Unix-like operating system descended from Rese
 
 1.**Top 5 Open Source Project Management Tools: **Tuleap Open ALM, OrangeScrum,Taiga, Odoo,MyCollab
 
+MyCollab is a multi-purpose solution which features tools for customer relationship management, document management, and project management. In this case, let's look at MyCollab-Project.
 
+MyCollab-Project includes many features, like a Gantt chart and milestones, time tracking, and issue management. It also supports agile development models with its Kanban board. MyCollab-Project comes in three editions, of which the community edition is the free and open source option.
+
+The current MyCollab version is 5.2.9 released on March 14, 2016. With a previous release, 5.2.6, mobile readiness has been greatly improved.
+
+MyCollab is licensed under AGPLv3, requires a Java runtime and MySQL stack, and the source code is available on GitHub.
+
+ne. 
+
+Odoo is a multiplatform solution, supporting Windows, several Linux distributions, and other operating systems as well.
+
+The community edition is, of course, free and open source, but limited in features compared to the enterprise version. Odoo project management has some interesting features, such as Gantt charts, a Kanban view, tasks and issues, graphs, and more. Notable assets are the community resources, and its official Docker image.
+
+Odoo is licensed under GPLv3, and requires Python and PostgreSQL. Its latest release, 9.0, is available for download and as source on GitHub.
 
 2.**Top 4 Open Source Editors: **gedit,Geany,Sublime Text , jEdit
 
